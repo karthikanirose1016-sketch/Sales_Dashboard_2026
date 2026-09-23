@@ -138,9 +138,3 @@ https://github.com/karthikanirose1016-sketch/Sales_Dashboard_2026.git
 ```
 https://github.com/karthikanirose1016-sketch/Sales_Dashboard_2026.git
 ```
-
- For the screenshot to display automatically in the README, put `dashboard.png` in the **root of your repository** and use:
-
-```
-![Sales Dashboard 2026](dashboard.png)
-```
